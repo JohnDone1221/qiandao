@@ -9,5 +9,5 @@
 | secrets           | 说明           | 例子                 |
 | ----------------- | -------------- | -------------------- |
 | SOUSHUBA_HOSTNAME | 搜书吧永久地址 | `www.soushu2030.com` |
-| SOUSHUBA_USERNAME | 搜书吧用户名   |                      |
+| SOUSHUBA_USERNAME | 搜书吧用户名   |                       |
 | SOUSHUBA_PASSWORD | 搜书吧密码     |                      |
